@@ -36,7 +36,7 @@ A Claude Code skill for analyzing and cleaning up macOS disk space. Built for ev
 ## Install
 
 ```bash
-npx skills add JadenChoi2k/macos-disk-cleanup
+npx skills add choism4/macos-disk-cleanup
 ```
 
 ## Safety
